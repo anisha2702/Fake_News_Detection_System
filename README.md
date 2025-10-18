@@ -45,7 +45,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
+**Anisha Kumari**
 - GitHub: [anisha2702](https://github.com/anisha2702)
 - LinkedIn: [anishakumari27](https://linkedin.com/in/anishakumari27)
 

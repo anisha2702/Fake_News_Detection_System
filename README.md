@@ -46,8 +46,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@anisha2702](https://github.com/anisha2702)
-- LinkedIn: [Anisha](https://linkedin.com/in/anishakumari27)
+- GitHub: [anisha2702](https://github.com/anisha2702)
+- LinkedIn: [anishakumari27](https://linkedin.com/in/anishakumari27)
 
 ## 🙏 Acknowledgments
 
@@ -57,8 +57,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For questions or support, please open an issue or contact at your.email@example.com
+For questions or support, please open an issue or contact at anishakumari270205@gmail.com
 
 ---
-
-⭐ **Star this repo if you find it helpful!** ⭐

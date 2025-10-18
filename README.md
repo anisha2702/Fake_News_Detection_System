@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+# 🛡️ Fake News Detection System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An AI-powered full-stack web application that detects fake news using DistilBERT and the MERN stack.
 
-## Available Scripts
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![React](https://img.shields.io/badge/React-19.1.1-61DAFB?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-18+-339933?logo=node.js)
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python)
 
-In the project directory, you can run:
+## 🚀 Features
 
-### `npm start`
+- 🤖 **AI-Powered Detection** - DistilBERT model trained on 10,000+ articles
+- 🔐 **User Authentication** - Secure JWT-based auth system
+- 📊 **Dashboard Analytics** - Track prediction history and statistics
+- 💬 **Community Forum** - Discuss findings with other users
+- 📱 **Responsive Design** - Works seamlessly on all devices
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🛠️ Tech Stack
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Frontend:** React, Tailwind CSS, Axios, React Router  
+**Backend:** Node.js, Express.js, MongoDB, JWT  
+**AI Model:** Python, Flask, DistilBERT (Transformers)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📸 Screenshots
 
-### `npm run build`
+<details>
+<summary>Click to view screenshots</summary>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Landing Page
+![Landing Page](public/LandingPage.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Dashboard
+![Dashboard](public/Dashboard.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Prediction Interface
+![Prediction](public/Prediction.png)
 
-### `npm run eject`
+</details>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📝 License
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 👤 Author
 
-## Learn More
+**Your Name**
+- GitHub: [@anisha2702](https://github.com/anisha2702)
+- LinkedIn: [Anisha](https://linkedin.com/in/anishakumari27)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🙏 Acknowledgments
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Dataset: [Kaggle Fake News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
+- Model: [DistilBERT by Hugging Face](https://huggingface.co/distilbert-base-uncased)
+- Icons: [Lucide React](https://lucide.dev/)
 
-### Code Splitting
+## 📧 Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+For questions or support, please open an issue or contact at your.email@example.com
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+⭐ **Star this repo if you find it helpful!** ⭐
